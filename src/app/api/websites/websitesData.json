@@ -1,0 +1,50 @@
+[
+    {
+        "name": "MiniDrone.co.il",
+        "logo": "https://minidrone.co.il/_next/static/media/favicon.175ca407.ico",
+        "status": "live",
+        "avgScore": 57,
+        "mainKeywords": ["רחפן עם מצלמה לילדים"],
+        "nextStep": "Create social media accounts"
+    },
+    {
+        "name": "SunCam.co.il",
+        "logo": "https://www.suncam.co.il/_next/static/media/favicon.bf3dc732.ico",
+        "status": "live",
+        "avgScore": 82,
+        "mainKeywords": ["מצלמת אבטחה סולארית"],
+        "nextStep": "Pay for articles"
+    },
+    {
+        "name": "Wired",
+        "logo": "https://www.wired.com/favicon.ico",
+        "status": "draft",
+        "avgScore": 75,
+        "mainKeywords": ["digital culture", "business", "gear"],
+        "nextStep": "Improve page load speed"
+    },
+    {
+        "name": "example.com",
+        "logo": "https://example.com/favicon.ico",
+        "status": "draft",
+        "avgScore": 85,
+        "mainKeywords": ["technology", "innovation"],
+        "nextStep": "Optimize meta descriptions"
+    },
+    {
+        "name": "mysite.org",
+        "logo": "https://mysite.org/favicon.ico",
+        "status": "draft",
+        "avgScore": 72,
+        "mainKeywords": ["education", "resources"],
+        "nextStep": "Improve page load speed"
+    },
+    {
+        "name": "shopnow.com",
+        "logo": "https://shopnow.com/favicon.ico",
+        "status": "draft",
+        "avgScore": 91,
+        "mainKeywords": ["e-commerce", "deals"],
+        "nextStep": "Enhance product descriptions"
+    }
+]
